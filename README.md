@@ -16,6 +16,7 @@
   * Maintainer : https://assetstore.unity.com/packages/tools/utilities/maintainer-32199
   * Odin - Inspector and Serializer : https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041
   * All In 1 Sprite Shader : https://assetstore.unity.com/packages/vfx/shaders/all-in-1-sprite-shader-156513
+ * PlayFab 백앤드 서버를 사용하여 정보를 저장하고 있으므로 적절히 수정하여 
 
 ### ● 시연 영상
-영상 : https://youtu.be/3A7loKjwg8Y
+ * 영상 : https://youtu.be/3A7loKjwg8Y
