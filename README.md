@@ -17,6 +17,5 @@
   * Odin - Inspector and Serializer : https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041
   * All In 1 Sprite Shader : https://assetstore.unity.com/packages/vfx/shaders/all-in-1-sprite-shader-156513
 
-### ● 이미지
-
-asdf
+### ● 시연 영상
+영상 : https://youtu.be/3A7loKjwg8Y
